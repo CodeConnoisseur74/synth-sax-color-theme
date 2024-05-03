@@ -8,11 +8,12 @@
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
 - [Features](#features)
-    - [Existing Features](#existing-features)
-  - [FEATURE 1](#feature-1)
-      - [FEATURE 2](#feature-2)
-      - [FEATURE 3](#feature-3)
-    - [Features Left to Implement](#features-left-to-implement)
+  - [Existing Features:](#existing-features)
+  - [Background Image](#background-image)
+  - [Color Highlighting](#color-highlighting)
+  - [Menu Highlighting](#menu-highlighting)
+  - [Icon Highlighting](#icon-highlighting)
+  - [Features Left to Implement](#features-left-to-implement)
   - [Technologies Used](#technologies-used)
 
 ## Introduction
