@@ -16,43 +16,44 @@
 
 ## Introduction
 
-Description of project and purpose.
+A synthwave inspired color theme for VS Code for Sax Players or anyone else who loves neon. 
 
 # Features
 
 ### Existing Features
-## Navigation Bar
-* Located concisely at the top of every page
-* The user can easily navigate to different sections of the site with ease
-* This feature solves user story 1 
-![Feature 1] [(assets/images/#)] 
-#### Navigation Bar Dropdown
 
-* Dropdown Menu located within the Navigation Bar at the top of the page for easy access
-* Navigation Bar fits responsively to tablet and mobile screens. 
-* This solves user stories 1 and 3
+## Background Image
 
-![Feature 2](assets/images/#)
-#### Home Page Layout
+* Download the background image from this repo. 
+* Download the VS Code extension by KatsuteDev [Background](https://github.com/KatsuteDev/Background)
+* Follow the instructions provided by KatesuteDev in the README.md.
+![Background Image] (sax-synth.png)
 
-* Minimalistic layout for ease of use
-* User can easily read short tidbits of information regarding each section and can click on them to be taken to additional information
-* This solves Stories 1, 2 and 3. 
+## Color Highlighting
 
-![Feature 3](assets/images/#)
+* Green Highlighting on all text in VS Code with the exception of Code. 
+  
+### Menu Highlighting
+
+![Menu Highlighting](menu-highlight.png)
+
+### Icon Highlighting
+
+![Icon Highlighting](icon-highlight.png)
+
 
 ### Features Left to Implement
 
-* Expand the website to include additional information and sections
-* Include a more extensive ...
+* Feature additional horns/instruments. 
 
 ## Technologies Used
 
 ### Frameworks, Libraries & Programs Used
 
-* [#](https://#)
-* [#](https://#)
-* [#](https://#)
+* [Theme Studio for VS Code](https://themes.vscode.one/)
+* [VSCE]([https://#](https://github.com/microsoft/vscode-vsce))
+* [MICROSOFT AZURE](https://azure.microsoft.com/)
+* [MICROSOFT VISUAL STUDIO CODE](https://code.visualstudio.com/)
 
 ### Forking the GitHub Repository
 
@@ -78,6 +79,11 @@ The following steps can be used to clone the GitHub repository:
 * Idea for incorperating a background image came from [practical-synth](https://github.com/Valx01P/practical-synth)
 * Background Image made possible by VS Code extension[Background](https://github.com/KatsuteDev/Background)
 * Background Image[Canva](https://www.canva.com/)
+
+### Content
+* Credit and sites we have taken information from
+* Explanation [Visual Studio Code: Publishing Extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+* Explanation [Visual Studio Code: Extension Manifest](https://code.visualstudio.com/api/references/extension-manifest#approved-badges)
 
 
 
