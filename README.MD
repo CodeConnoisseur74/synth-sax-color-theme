@@ -74,11 +74,11 @@ The following steps can be used to clone the GitHub repository:
 * Press 'Enter' to create the clone.
 
 ## Credits
-* Theme Studio for VS Code was used to create the theme[Theme Studio for VS Code](https://themes.vscode.one/)
-* VS Code Color Theme based on  [synthwave80s-theme](https://github.com/Sanchodelniglo/synthwave80s-theme)
+* Theme Studio for VS Code was used to create the theme [Theme Studio for VS Code](https://themes.vscode.one/)
+* VS Code Color Theme based on [synthwave80s-theme](https://github.com/Sanchodelniglo/synthwave80s-theme)
 * Idea for incorperating a background image came from [practical-synth](https://github.com/Valx01P/practical-synth)
-* Background Image made possible by VS Code extension[Background](https://github.com/KatsuteDev/Background)
-* Background Image[Canva](https://www.canva.com/)
+* Background Image made possible by VS Code extension [Background](https://github.com/KatsuteDev/Background)
+* Background Image [Canva](https://www.canva.com/)
 
 ### Content
 * Credit and sites we have taken information from
