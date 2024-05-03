@@ -9,6 +9,53 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "synthwave",
+    "synth",
+    "wave",
+    "practical synth",
+    "sax",
+    "sax-synth",
+    "sax synth",
+    "saxsynth",
+    "sax synthwave",
+    "saxsynthwave",
+    "sax synth wave",
+    "sax synth color theme"
+    "background",
+    "dark",
+    "dark theme",
+    "dark-theme",
+    "darktheme",
+    "2077",
+    "cyberpunk",
+    "cyberpunk 2077",
+    "vaporwave",
+    "night",
+    "night theme",
+    "midnight",
+    "midnight theme",
+    "midnight-theme",
+    "midnight purple",
+    "midnight-purple",
+    "midnightpurple",
+    "purple",
+    "purple theme",
+    "purple-theme",
+    "purpletheme",
+    "dark purple",
+    "dark-purple",
+    "darkpurple",
+    "dark purple theme",
+    "dark-purple-theme",
+    "darkpurpletheme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodeConnoisseur74/synth-sax-color-theme/blob/main/README.md"
+  },
   "contributes": {
     "themes": [
       {
@@ -17,5 +64,13 @@
         "path": "./themes/Sax Synth Color Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "images": [
+    "sax-synth-logo.png",
+    "sax-synth-background-image.png",
+    "sax-synth.png",
+    "menu-highlight.png",
+    "icon-highlight.png"
+  ],
+  "icon": "sax-synth-logo.jpg"
 }

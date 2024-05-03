@@ -93,6 +93,7 @@ The following steps can be used to clone the GitHub repository:
 * Explanation [Visual Studio Code: Publishing Extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
 * Explanation [Visual Studio Code: Extension Manifest](https://code.visualstudio.com/api/references/extension-manifest#approved-badges)
 
+"This project is licensed under the terms of the MIT license."
 
 
 
