@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+        "minimap.background": "#00000000",
+        "scrollbar.shadow": "#00000000"
+    },
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Practical Synth",
+    "markdown.validate.enabled": false,
+    "markdown.extension.toc.updateOnSave": false
+
+}

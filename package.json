@@ -1,0 +1,21 @@
+{
+  "name": "sax-synth-color-theme",
+  "displayName": "Sax Synth Color Theme",
+  "description": "A Synthwave inspired color theme for sax players.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sax Synth Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sax Synth Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
