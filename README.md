@@ -1,6 +1,6 @@
 # **Sax Synth Color Theme for VS Code**
 
-![Sax Synth Color Theme](sax-synth-logo.JPEG)
+![Sax Synth Color Theme](sax-synth-logo.Jpg)
 
 ## Table of Contents
 - [**Sax Synth Color Theme for VS Code**](#sax-synth-color-theme-for-vs-code)
