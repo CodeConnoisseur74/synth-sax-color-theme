@@ -8,7 +8,7 @@
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
 - [Features](#features)
-  - [Existing Features:](#existing-features)
+  - [Existing Features](#existing-features)
   - [Background Image](#background-image)
   - [Color Highlighting](#color-highlighting)
   - [Menu Highlighting](#menu-highlighting)
