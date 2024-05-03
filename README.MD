@@ -27,7 +27,7 @@ A synthwave inspired color theme for VS Code for Sax Players or anyone else who 
 * Download the background image from this repo. 
 * Download the VS Code extension by KatsuteDev [Background](https://github.com/KatsuteDev/Background)
 * Follow the instructions provided by KatesuteDev in the README.md.
-![Background Image] (sax-synth.png)
+![Background Image](synth-sax.png)
 
 ## Color Highlighting
 
