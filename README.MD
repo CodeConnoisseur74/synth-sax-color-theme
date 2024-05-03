@@ -51,7 +51,7 @@ A synthwave inspired color theme for VS Code for Sax Players or anyone else who 
 ### Frameworks, Libraries & Programs Used
 
 * [Theme Studio for VS Code](https://themes.vscode.one/)
-* [VSCE]([https://#](https://github.com/microsoft/vscode-vsce))
+* [VSCE](https://github.com/microsoft/vscode-vsce)
 * [MICROSOFT AZURE](https://azure.microsoft.com/)
 * [MICROSOFT VISUAL STUDIO CODE](https://code.visualstudio.com/)
 
