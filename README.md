@@ -92,6 +92,7 @@ The following steps can be used to clone the GitHub repository:
 * Credit and sites we have taken information from
 * Explanation [Visual Studio Code: Publishing Extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
 * Explanation [Visual Studio Code: Extension Manifest](https://code.visualstudio.com/api/references/extension-manifest#approved-badges)
+* CoderCoder [How to make your own VS Code theme!](https://www.youtube.com/watch?v=pGzssFNtWXw&t=278s)
 
 "This project is licensed under the terms of the MIT license."
 
