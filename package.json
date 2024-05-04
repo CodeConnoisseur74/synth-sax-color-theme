@@ -1,8 +1,9 @@
 {
   "name": "sax-synth-color-theme",
   "displayName": "Sax Synth Color Theme",
-  "description": "A Synthwave inspired color theme for sax players.",
+  "description": "A synthwave inspired color theme for sax players.",
   "version": "0.0.1",
+  "publisher": "Code-Connoisseur74",
   "engines": {
     "vscode": "^1.88.0"
   },
@@ -54,7 +55,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/CodeConnoisseur74/synth-sax-color-theme/blob/main/README.md"
+    "url": "https://github.com/CodeConnoisseur74/synth-sax-color-theme"
   },
   "contributes": {
     "themes": [
