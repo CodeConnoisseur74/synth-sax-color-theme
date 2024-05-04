@@ -3,13 +3,15 @@
 
 ![sax-synth-logo](https://github.com/CodeConnoisseur74/synth-sax-color-theme/assets/106032462/4d264340-11a6-4195-a8af-f28de1517860)
 
+[Click here to install](https://marketplace.visualstudio.com/items?itemName=Code-Connoisseur74.sax-synth-color-theme) 
+
 ## Table of Contents
 - [**Sax Synth Color Theme for VS Code**](#sax-synth-color-theme-for-vs-code)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
 - [Features](#features)
   - [Existing Features](#existing-features)
-  - [Background Image](#background-image)
+  - [Instructions](#instructions)
   - [Color Highlighting](#color-highlighting)
   - [Menu Highlighting](#menu-highlighting)
   - [Icon Highlighting](#icon-highlighting)
@@ -24,9 +26,9 @@ A synthwave inspired color theme for VS Code for Sax Players or anyone else who 
 
 ### Existing Features
 
-## Background Image
+## Instructions:
 
-* Download the background image from this repo:
+ Download the background image from this repo:
 
 ![synth-sax](https://github.com/CodeConnoisseur74/synth-sax-color-theme/assets/106032462/e3140b2c-752f-4909-a571-8e7faf2eb710)
 
